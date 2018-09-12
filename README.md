@@ -5,3 +5,8 @@ Organizational repository for the meetups initiave in OSDC
 * [darkHarry](https://github.com/darkharry) - **Darsh Mecwan** &lt;`<harry.mecwan91@gmail.com>`&gt;
 * [v1shvesh](https://github.com/v1shvesh) - **S Vishvesh** &lt;`<maxim260598@gmail.com>`&gt;
 * [Sudeepam97](https://github.com/Sudeepam97) - **P Sudeepam** &lt;`<sudeepam.pandey@gmail.com>`&gt;
+
+## Linux Meetup 0
+
+Linux Introductory talk given by Himanshu (github handle to be inserted) in the first hour.
+A CTF based linux introduction game using simple shell commands was hosted in the final hour.

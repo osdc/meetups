@@ -1,0 +1,6 @@
+When you create this lvl, make sure showpass.sh is owned by level8, and it has a setuid bit...
+pass should also be owned by level 8, and should have file mode bits 600.
+
+Yours Sincerely,
+S. Vishvesh
+CC, OSDC

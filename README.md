@@ -8,5 +8,5 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Linux Meetup 0
 
-Linux Introductory talk given by Himanshu (github handle to be inserted) in the first hour.
+Linux Introductory talk given by [crapsystem](https://github.com/crapsystem) (Himanshu Nailwal) in the first hour.
 A CTF based linux introduction game using simple shell commands was hosted in the final hour.

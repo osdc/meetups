@@ -13,5 +13,5 @@ A WarGame based linux introduction game using simple shell commands was hosted i
 
 ## Git Meetup 1
 
-Git basic introduction talk by [darkHarry](https://github.com/darkHarry),[vaibhavk](https://github.com/vaibhavk) and [saranshbarua](https://github.com/saranshbarua)in the first one and half hour.
+Git basic introduction talk by [darkHarry](https://github.com/darkHarry),[vaibhavk](https://github.com/vaibhavk) and [saranshbarua](https://github.com/saranshbarua) in the first one and half hour.
 Followed by a challenge solving game using [Get-it](https://github.com/jlord/git-it-electron) which is a desktop app that teaches you how to use Git and Github on the command line in the last hour.

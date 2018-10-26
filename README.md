@@ -9,4 +9,9 @@ Organizational repository for the meetups initiave in OSDC
 ## Linux Meetup 0
 
 Linux Introductory talk given by [crapsystem](https://github.com/crapsystem) (Himanshu Nailwal) in the first hour.
-A CTF based linux introduction game using simple shell commands was hosted in the final hour.
+A WarGame based linux introduction game using simple shell commands was hosted in the final hour.
+
+## Git Meetup 1
+
+Git basic introduction talk by [darkHarry](https://github.com/darkHarry),[vaibhavk](https://github.com/vaibhavk) and [saranshbarua](https://github.com/saranshbarua) in the first one and half hour.
+Followed by a challenge solving game using [Get-it](https://github.com/jlord/git-it-electron) which is a desktop app that teaches you how to use Git and Github on the command line.

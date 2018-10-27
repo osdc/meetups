@@ -6,12 +6,12 @@ Organizational repository for the meetups initiave in OSDC
 * [v1shvesh](https://github.com/v1shvesh) - **S Vishvesh** &lt;`<maxim260598@gmail.com>`&gt;
 * [Sudeepam97](https://github.com/Sudeepam97) - **P Sudeepam** &lt;`<sudeepam.pandey@gmail.com>`&gt;
 
-## Linux Meetup 0
+## Meetups Record
 
-Linux Introductory talk given by [crapsystem](https://github.com/crapsystem) (Himanshu Nailwal) in the first hour.
-A WarGame based linux introduction game using simple shell commands was hosted in the final hour.
+List of all the meetups of the OSDC Community along with the links to their respective blogs.
 
-## Git Meetup 1
-
-Git basic introduction talk by [darkHarry](https://github.com/darkHarry),[vaibhavk](https://github.com/vaibhavk) and [saranshbarua](https://github.com/saranshbarua) in the first one and half hour.
-Followed by a challenge solving game using [Get-it](https://github.com/jlord/git-it-electron) which is a desktop app that teaches you how to use Git and Github on the command line.
+ Date     | Meetup Topic                                 | Details                                                         
+----------|----------------------------------------------|-----------------------------------------------------------------|
+ 30/08/18 | [Wanna Play Linux](https://bit.ly/2NyFacz)   |Introduction to Basic Linux Commands through talks & a wargame.
+ 14/09/18 | [How to Open Source](https://bit.ly/2PWTA2Z) |Addressing the know-hows of stepping into open-source.
+ 28/09/18 | [Intro to Git & Github](blog-link-here)      |Introduction to version control using Git & Github.

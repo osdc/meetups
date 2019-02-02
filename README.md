@@ -16,4 +16,4 @@ List of all the meetups of the OSDC Community along with the links to their resp
  2018-09-14 | [How to Open Source](https://bit.ly/2PWTA2Z)  |Addressing the know-hows of stepping into open-source.
  2018-09-28 | [Intro to Git & Github](blog-link-here)       |Introduction to version control using Git & Github.
  2019-01-23 | [Contributing to Node.js](blog-link-here)     |Getting started with contributing to Node.js.
- 
+ 2019-01-31 | [Intro to Vim](https://github.com/vaibhavk/presentations/blob/master/index.org)     |Introduction to Vim and its module. 

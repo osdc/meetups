@@ -14,7 +14,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2018-19 Spring
 
-| Date       | Meetup Topic                                 | Details/Slides Link                                             |
+| Date       | Meetup Topic                                 | Details/Slides                                                  |
 | ---------- | -------------------------------------------- | --------------------------------------------------------------- |
 | 2018-08-30 | [Wanna Play Linux](https://bit.ly/2NyFacz)   | Introduction to Basic Linux Commands through talks & a wargame. |
 | 2018-09-14 | [How to Open Source](https://bit.ly/2PWTA2Z) | Addressing the know-hows of stepping into open-source.          |

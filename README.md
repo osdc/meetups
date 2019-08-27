@@ -15,13 +15,13 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2018-19 Spring
 
-| Date       | Meetup Topic                                              | Details/Slides                                                  |
-| ---------- | --------------------------------------------------------- | --------------------------------------------------------------- |
-| 2018-08-30 | [Wanna Play Linux](https://bit.ly/2NyFacz)                | Introduction to Basic Linux Commands through talks & a wargame. |
-| 2018-09-14 | [How to Open Source](https://bit.ly/2PWTA2Z)<sup>\*</sup> | Addressing the know-hows of stepping into open-source.          |
-| 2018-09-28 | Intro to Git & Github                                     | Introduction to version control using Git & Github.             |
-| 2019-01-23 | Contributing to Node.js                                   | Getting started with contributing to Node.js.<sup>\*</sup>      |
-| 2019-01-31 | Intro to Vim                                              | Introduction to the awesome features of Vim Text editor.        |
+| Date       | Meetup Topic                                                | Details/Slides                                                  |
+| ---------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
+| 2018-08-30 | [Wanna Play Linux](https://bit.ly/2NyFacz)                  | Introduction to Basic Linux Commands through talks & a wargame. |
+| 2018-09-14 | [How to Open Source](https://bit.ly/2PWTA2Z)<sup>\*\*</sup> | Addressing the know-hows of stepping into open-source.          |
+| 2018-09-28 | Intro to Git & Github                                       | Introduction to version control using Git & Github.             |
+| 2019-01-23 | Contributing to Node.js<sup>\*\*</sup>                      | Getting started with contributing to Node.js.                   |
+| 2019-01-31 | Intro to Vim                                                | Introduction to the awesome features of Vim Text editor.        |
 
 ### 2019-20 Fall
 
@@ -40,4 +40,4 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2019-11-26 |                    |                                     |
 | 2019-12-03 |                    |                                     |
 
-\* = BoF Meetups (Free Talks Meetups)
+\*\* = BoF Meetups (Free Talks Meetups)

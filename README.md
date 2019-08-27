@@ -39,3 +39,5 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2019-11-19 |                    |                                     |
 | 2019-11-26 |                    |                                     |
 | 2019-12-03 |                    |                                     |
+
+\* = BoF Meetups (Free Talks Meetups)

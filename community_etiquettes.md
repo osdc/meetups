@@ -1,4 +1,4 @@
-#Notes by @ryzokuken
+# Notes by @ryzokuken
 
 # Mailing List Etiquette
 

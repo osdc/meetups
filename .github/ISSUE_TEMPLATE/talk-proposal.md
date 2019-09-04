@@ -18,8 +18,8 @@ assignees: ''
 ## Track
 <!-- The talks are divided into three categories :
     	- Beginner
-        - Intermediate
-        - Advanced
+     - Intermediate
+     - Advanced
 -->
 
 ## Talk Type

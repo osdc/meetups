@@ -25,19 +25,27 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2019-20 Fall
 
-| Date       | Meetup Topic       | Details                             | Talk Slides                      |
-| ---------- | ------------------ | ----------------------------------- | -------------------------------- |
-| 2019-08-27 | How to Open Source | How to get started with Open Source | [slides](https://bit.ly/2zo4okx) |
-| 2019-09-03 |                    |                                     |
-| 2019-09-10 |                    |                                     |
-| 2019-09-24 |                    |                                     |
-| 2019-10-01 |                    |                                     |
-| 2019-10-08 |                    |                                     |
-| 2019-10-15 |                    |                                     |
-| 2019-11-05 |                    |                                     |
-| 2019-11-12 |                    |                                     |
-| 2019-11-19 |                    |                                     |
-| 2019-11-26 |                    |                                     |
-| 2019-12-03 |                    |                                     |
+| Date       | Meetup Topic          | Details                             | Talk Slides/Notes                |
+| ---------- | --------------------- | ----------------------------------- | -------------------------------- |
+| 2019-08-27 | How to Open Source    | How to get started with Open Source | [slides](https://bit.ly/2zo4okx) |
+| 2019-09-03 | Intro to Git & Github | Basic Git intro + Talk by ryzokuken | [notes](https://kutt.it/pWD3Yq)  |
+| 2019-09-10 |                       |                                     |
+| 2019-09-24 |                       |                                     |
+| 2019-10-01 |                       |                                     |
+| 2019-10-08 |                       |                                     |
+| 2019-10-15 |                       |                                     |
+| 2019-11-05 |                       |                                     |
+| 2019-11-12 |                       |                                     |
+| 2019-11-19 |                       |                                     |
+| 2019-11-26 |                       |                                     |
+| 2019-12-03 |                       |                                     |
 
 \*\* = BoF Meetups (Free Talks Meetups)
+
+## Submitting a Talk
+
+In order to submit a talk proposal, just make an issue here following the talk-proposal issue template. We'll surely ping you and include the talk in the upcoming meetups.
+
+## Requesting for a Talk/Session
+
+In order to request the community members for organizing a talk/hands-on session on any of the topic you want, just make an issue like this - `[REQ] A session on Linux Filesystem`.

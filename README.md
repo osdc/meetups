@@ -25,20 +25,20 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2019-20 Fall
 
-| Date       | Meetup Topic          | Details                             | Talk Slides/Notes                  |
-| ---------- | --------------------- | ----------------------------------- | ---------------------------------- |
-| 2019-08-27 | How to Open Source    | How to get started with Open Source | [slides](https://bit.ly/2zo4okx)   |
-| 2019-09-03 | Intro to Git & Github | Basic Git intro + Talk by ryzokuken | [notes](./community_etiquettes.md) |
-| 2019-09-10 |                       |                                     |
-| 2019-09-24 |                       |                                     |
-| 2019-10-01 |                       |                                     |
-| 2019-10-08 |                       |                                     |
-| 2019-10-15 |                       |                                     |
-| 2019-11-05 |                       |                                     |
-| 2019-11-12 |                       |                                     |
-| 2019-11-19 |                       |                                     |
-| 2019-11-26 |                       |                                     |
-| 2019-12-03 |                       |                                     |
+| Date       | Meetup Topic                      | Details                             | Talk Slides/Notes                  |
+| ---------- | --------------------------------- | ----------------------------------- | ---------------------------------- |
+| 2019-08-27 | How to Open Source                | How to get started with Open Source | [slides](https://bit.ly/2zo4okx)   |
+| 2019-09-03 | Intro to Git & Github             | Basic Git intro + Talk by ryzokuken | [notes](./community_etiquettes.md) |
+| 2019-09-10 | Hands on Git & Github + Outreachy | Making a PR + Intro to Outreachy    | Hands On                           |
+| 2019-09-24 |                                   |                                     |
+| 2019-10-01 |                                   |                                     |
+| 2019-10-08 |                                   |                                     |
+| 2019-10-15 |                                   |                                     |
+| 2019-11-05 |                                   |                                     |
+| 2019-11-12 |                                   |                                     |
+| 2019-11-19 |                                   |                                     |
+| 2019-11-26 |                                   |                                     |
+| 2019-12-03 |                                   |                                     |
 
 \*\* = BoF Meetups (Free Talks Meetups)
 

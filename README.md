@@ -31,7 +31,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2019-09-03 | Intro to Git & Github             | Basic Git intro + Talk by ryzokuken | [notes](./community_etiquettes.md) |
 | 2019-09-10 | Hands on Git & Github + Outreachy | Making a PR + Intro to Outreachy    | Hands On                           |
 | 2019-10-01 | Hacktoberfest 2019                | Intro to the fest + Similar Events  | Hands On                           |
-| 2019-10-10 | Wanna Play Linux                  | Intro to Command Line + Wargames    | Hands On                           |
+| 2019-10-10 | Wanna Play Linux                  | Intro to Command Line + Wargames    | [Slides](https://kutt.it/8IMFly)                           |
 | 2019-10-15 |                                   |                                     |
 | 2019-11-05 |                                   |                                     |
 | 2019-11-12 |                                   |                                     |

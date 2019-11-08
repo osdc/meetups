@@ -11,9 +11,9 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Meetups Record
 
-List of all the meetups of the OSDC Community along with the links to their respective blogs.
+List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
 
-### 2018-19 Spring
+### 2018-19
 
 | Date       | Meetup Topic                                                | Details/Slides                                                  |
 | ---------- | ----------------------------------------------------------- | --------------------------------------------------------------- |
@@ -25,15 +25,15 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2019-20 Fall
 
-| Date       | Meetup Topic                      | Details                             | Talk Slides/Notes                  |
-| ---------- | --------------------------------- | ----------------------------------- | ---------------------------------- |
-| 2019-08-27 | How to Open Source                | How to get started with Open Source | [slides](https://bit.ly/2zo4okx)   |
-| 2019-09-03 | Intro to Git & Github             | Basic Git intro + Talk by ryzokuken | [notes](./community_etiquettes.md) |
-| 2019-09-10 | Hands on Git & Github + Outreachy | Making a PR + Intro to Outreachy    | Hands On                           |
-| 2019-10-01 | Hacktoberfest 2019                | Intro to the fest + Similar Events  | Hands On                           |
-| 2019-10-10 | Wanna Play Linux                  | Intro to Command Line + Wargames    | [Slides](https://kutt.it/8IMFly)                           |
-| 2019-10-17 | Informal Meetup<sup>\*\*</sup>             | Projects folks are working on + QnA      | Free talk session
-| 2019-11-05 |                                   |                                     |
+| Date       | Meetup Topic                      | Details                             | Speaker(s)                                               | Talk Slides/Notes                  |
+| ---------- | --------------------------------- | ----------------------------------- | -------------------------------------------------------- | ---------------------------------- |
+| 2019-08-27 | How to Open Source                | How to get started with Open Source | Core-Team                                                | [slides](https://bit.ly/2zo4okx)   |
+| 2019-09-03 | Intro to Git & Github             | Basic Git intro + Talk by ryzokuken | Core-Team, [@ryzokuken](https://github.com/ryzokuken)    | [notes](./community_etiquettes.md) |
+| 2019-09-10 | Hands on Git & Github + Outreachy | Making a PR + Intro to Outreachy    | Core-Team                                                | Hands On                           |
+| 2019-10-01 | Hacktoberfest 2019                | Intro to the fest + Similar Events  | Core-Team                                                | Hands On                           |
+| 2019-10-10 | Wanna Play Linux                  | Intro to Command Line + Wargames    | [@nightwarrior-xxx](https://github.com/nightwarrior-xxx) | [Slides](https://kutt.it/8IMFly)   |
+| 2019-10-17 | Informal Meetup<sup>\*\*</sup>    | Projects folks are working on + QnA | -                                                        | Free talk session                  |
+| 2019-11-07 | Getting Started with i3WM         | Intro to i3Wm & Ricing.             | [@BK1603](https://github.com/BK1603)                     |                                    |
 | 2019-11-12 |                                   |                                     |
 | 2019-11-19 |                                   |                                     |
 | 2019-11-26 |                                   |                                     |

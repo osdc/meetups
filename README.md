@@ -33,7 +33,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2019-10-01 | Hacktoberfest 2019                | Intro to the fest + Similar Events  | Core-Team                                                | Hands On                           |
 | 2019-10-10 | Wanna Play Linux                  | Intro to Command Line + Wargames    | [@nightwarrior-xxx](https://github.com/nightwarrior-xxx) | [Slides](https://kutt.it/8IMFly)   |
 | 2019-10-17 | Informal Meetup<sup>\*\*</sup>    | Projects folks are working on + QnA | -                                                        | Free talk session                  |
-| 2019-11-07 | Getting Started with i3WM         | Intro to i3Wm & Ricing.             | [@BK1603](https://github.com/BK1603)                     |                                    |
+| 2019-11-07 | Getting Started with i3WM         | Intro to i3Wm & Ricing.             | [@BK1603](https://github.com/BK1603)                     | [Slides](https://docs.google.com/presentation/d/1QAscJVPBlLl_2FTxi14G4V1RwMwzvpXeNV9iyBPTIDY/present?token=AC4w5VhK0T7xRqDMPUlrIEqwMxy9I2J83w%3A1573127932489&includes_info_params=1&eisi=CKSW6ZyG2OUCFdBUJAodEpgBoQ#slide=id.p)      |
 | 2019-11-12 |                                   |                                     |
 | 2019-11-19 |                                   |                                     |
 | 2019-11-26 |                                   |                                     |

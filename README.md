@@ -17,7 +17,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 | Date       | Meetup Topic 	| Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | ----------------	| ----------------------------------------------| ---------- | -------------------------------------------------------------|
-| 2020-01-07 | Informal Meetup 	| Discussion on projects and community feedbaick| Core Team  | [Minutes of Meetup](./minutes_of_meetup/mom_07-01-2020.md)   |
+| 2020-01-07 | Informal Meetup 	| Discussion on projects and community feedback| Core Team  | [Minutes of Meetup](./minutes_of_meetup/mom_07-01-2020.md)   |
 | 2020-01-14 |              	|                                               |            |                                                              |
 | 2020-01-21 |              	|                                               |            |                                                              |
 | 2020-01-28 |      	        |                                               |            |                                                              |

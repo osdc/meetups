@@ -15,24 +15,24 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 ### 2019-20 Spring
 
-| Date       | Meetup Topic 	| Details                                       | Speaker(s) | Talk Slides/Notes                                            |
-| ---------- | ----------------	| ----------------------------------------------| ---------- | -------------------------------------------------------------|
-| 2020-01-07 | Informal Meetup 	| Discussion on projects and community feedback| Core Team  | [Minutes of Meetup](./minutes_of_meetup/mom_07-01-2020.md)   |
-| 2020-01-14 |              	|                                               |            |                                                              |
-| 2020-01-21 |              	|                                               |            |                                                              |
-| 2020-01-28 |      	        |                                               |            |                                                              |
-| 2020-02-04 |         	        |                                               |            |                                                              |
-| 2020-02-18 |                  |                                               |            |                                                              |
-| 2020-02-25 |                  |                                               |            |                                                              |
-| 2020-03-03 |                  |                                               |            |                                                              |
-| 2020-03-17 |                  |                                               |            |                                                              |
-| 2020-03-24 |                  |                                               |            |                                                              |
-| 2020-04-07 |                  |                                               |            |                                                              |
-| 2020-04-14 |                  |                                               |            |                                                              |
-| 2020-04-21 |                  |                                               |            |                                                              |
-| 2020-04-28 |                  |                                               |            |                                                              |
-| 2020-05-05 |                  |                                               |            |                                                              |
-| 2020-05-12 |                  |                                               |            |                                                              |
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | ---------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
+| 2020-01-07 | Informal Meetup 	          | Discussion on projects and community feedback | Core Team  | [Minutes of Meetup](./minutes_of_meetup/mom_07-01-2020.md)   |
+| 2020-01-14 | APIs (GraphQL and REST)    | Session on GraphQL and REST                   | [@sidntrivedi012](https://github.com/sidntrivedi012), [@code-monk08](https://github.com/code-monk08) | [REST](https://docs.google.com/presentation/d/1MFtfisIoisxbBscIpaQXceOEmv2actSKd8qGEDTwpN4/edit?usp=sharing), [GraphQL](https://docs.google.com/presentation/d/14NPHPU7hJBKxefRu9f2_dt-o9uB17TTbgOXsTUVqaqo/edit?usp=sharing)|
+| 2020-01-21 |              	          |                                               |            |                                                              |
+| 2020-01-28 |      	                  |                                               |            |                                                              |
+| 2020-02-04 |         	                  |                                               |            |                                                              |
+| 2020-02-18 |                            |                                               |            |                                                              |
+| 2020-02-25 |                            |                                               |            |                                                              |
+| 2020-03-03 |                            |                                               |            |                                                              |
+| 2020-03-17 |                            |                                               |            |                                                              |
+| 2020-03-24 |                            |                                               |            |                                                              |
+| 2020-04-07 |                            |                                               |            |                                                              |
+| 2020-04-14 |                            |                                               |            |                                                              |
+| 2020-04-21 |                            |                                               |            |                                                              |
+| 2020-04-28 |                            |                                               |            |                                                              |
+| 2020-05-05 |                            |                                               |            |                                                              |
+| 2020-05-12 |                            |                                               |            |                                                              |
 
 ### 2019-20 Fall
 

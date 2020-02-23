@@ -4,9 +4,12 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Champions
 
-- [sidntrivedi012](https://github.com/sidntrivedi012) - **Siddhant N Trivedi** &lt;`<sidntrivedi012@gmail.com>`&gt;
 - [nightwarriorftw](https://github.com/nightwarriorftw) - **Aman Verma** &lt;`<amanv1999@gmail.com>`&gt;
+- [anubhavsinha98](https://github.com/anubhavsinha98) - **Anubhav Sinha** &lt;`<anubhavsinha98@gmail.com>`&gt;
+- [codekhal](https://github.com/codekhal) - **Khushal Vyas** &lt;`<vyas.khushal1999@gmail.com>`&gt;
 - [code-monk08](https://github.com/code-monk08) - **Mayank Singh** &lt;`<mayank.singh081997@gmail.com>`&gt;
+- [sidntrivedi012](https://github.com/sidntrivedi012) - **Siddhant N Trivedi** &lt;`<sidntrivedi012@gmail.com>`&gt;
+- [darksun27](https://github.com/darksun27) - **Siddharth Batra** &lt;`<sbsiddharth@gmail.com>`&gt;
 - [Yugandhartripathi](https://github.com/Yugandhartripathi) - **Yugandhar Tripathi** &lt;`<tripathi.yugandhar@gmail.com>`&gt;
 
 ## Meetups Record

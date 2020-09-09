@@ -25,15 +25,9 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2020-02-05 | GSoC & Outreachy       	  | Intro & discussion about these student programs and how to apply to them | [@sidntrivedi012](https://github.com/sidntrivedi012), [@anubhavsinha98](https://github.com/anubhavsinha98) | [GSoC Student Guide](https://google.github.io/gsocguides/student/) |
 | 2020-02-18 | Informal Meetup            | Community Feedback, Proposals pitching, Discussion on various topics                                              |  -          | [Community Feedback & Proposals](https://github.com/osdc/meetups/issues/46)                                                             |
 | 2020-02-25 | How to begin Kernel Development | Intro to Kernels and their development | [@VARoDeK](https://github.com/VARoDeK)| [Slides](https://drive.google.com/file/d/1MQcDMq-MKDl72O4s9WV5yYx35AJFAKlv/view?usp=sharing)|
-| 2020-03-03 |                            |                                               |            |                                                              |
-| 2020-03-17 |                            |                                               |            |                                                              |
-| 2020-03-24 |                            |                                               |            |                                                              |
-| 2020-04-07 |                            |                                               |            |                                                              |
-| 2020-04-14 |                            |                                               |            |                                                              |
-| 2020-04-21 |                            |                                               |            |                                                              |
-| 2020-04-28 |                            |                                               |            |                                                              |
-| 2020-05-05 |                            |                                               |            |                                                              |
-| 2020-05-12 |                            |                                               |            |                                                              |
+| 2020-04-24 |   Assembly and Neovim      | Buffer Overflow/ Assembly, Intro To Neovim           |  [@BK1603](https://github.com/BK1603)  , [@abankalarm](https://github.com/abankalarm) | [Assembley Cheatsheet](https://github.com/abankalarm/reverse-engineering/blob/master/assemly%20cheat%20sheet) , [Neovim](https://docs.google.com/presentation/d/1ZmYVWbnPvThR3xCok0DdhNxmHViYM7P075hjdcva3vE/edit?usp=sharing) |
+| 2020-04-28 |   Deno , Rust              | What is Deno + Project Showcase , Memory Management in Rust| [@akshgpt7](https://github.com/akshgpt7), [@humancalico](https://github.com/humancalico)  |  [Deno](https://docs.google.com/presentation/d/1IVRUDFXGrtYqHXHUdoawDPYPU0Xc9r_bVtImdRrFJxk/edit) , [Rust Code Examples](https://gist.github.com/humancalico/182f707e363cf1925860ae72da1b915a)  |
+| 2020-05-04 | Informal Meetup | GSoC Results Announced | - | - |
 
 ### 2019-20 Fall
 

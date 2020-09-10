@@ -4,7 +4,7 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Champions
 
-- [BK1603](https://github.com/nightwarriorftw) - **Shreyansh Chouhan** &lt;`<chouhan.shreyansh2702@gmail.com>`&gt;
+- [BK1603](https://github.com/BK1603) - **Shreyansh Chouhan** &lt;`<chouhan.shreyansh2702@gmail.com>`&gt;
 - [shermix](https://github.com/shermix) - **Ankesh Bharti** &lt;`<ankeshbharti8@gmail.com>`&gt;
 - [sickwiz](https://github.com/sickwiz) - **Aamir Ahmad** &lt;`<sickwiz@protonmail.com>`&gt;
 - [daemon1024](https://github.com/daemon1024) - **Barun Acharya** &lt;`<barun1024@gmail.com>`&gt;
@@ -14,6 +14,12 @@ Organizational repository for the meetups initiave in OSDC
 ## Meetups Record
 
 List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
+
+### 2020-21 Fall
+
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | ---------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
+| TBA        | TBA           	          | TBA                                           | TBA        | TBA                                                          |
 
 ### 2019-20 Spring
 

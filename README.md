@@ -4,12 +4,12 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Champions
 
-- [BK1603](https://github.com/BK1603) - **Shreyansh Chouhan** &lt;`<chouhan.shreyansh2702@gmail.com>`&gt;
-- [shermix](https://github.com/shermix) - **Ankesh Bharti** &lt;`<ankeshbharti8@gmail.com>`&gt;
-- [sickwiz](https://github.com/sickwiz) - **Aamir Ahmad** &lt;`<sickwiz@protonmail.com>`&gt;
-- [daemon1024](https://github.com/daemon1024) - **Barun Acharya** &lt;`<barun1024@gmail.com>`&gt;
-- [humancalico](https://github.com/humancalico) - **Akshat Agarwal** &lt;`<humancalico@disroot.org`&gt;
-- [akshgpt7](https://github.com/akshgpt7) - **Aksh Gupta** &lt;`<akshgpt7@gmail.com>`&gt;
+- [BK1603](https://github.com/BK1603) - **Shreyansh Chouhan** &lt;`chouhan.shreyansh2702@gmail.com`&gt;
+- [shermix](https://github.com/shermix) - **Ankesh Bharti** &lt;`ankeshbharti8@gmail.com`&gt;
+- [sickwiz](https://github.com/sickwiz) - **Aamir Ahmad** &lt;`sickwiz@protonmail.com`&gt;
+- [daemon1024](https://github.com/daemon1024) - **Barun Acharya** &lt;`barun1024@gmail.com`&gt;
+- [humancalico](https://github.com/humancalico) - **Akshat Agarwal** &lt;`humancalico@disroot.org`&gt;
+- [akshgpt7](https://github.com/akshgpt7) - **Aksh Gupta** &lt;`akshgpt7@gmail.com`&gt;
 
 ## Meetups Record
 

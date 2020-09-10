@@ -4,13 +4,12 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Champions
 
-- [nightwarriorftw](https://github.com/nightwarriorftw) - **Aman Verma** &lt;`<amanv1999@gmail.com>`&gt;
-- [anubhavsinha98](https://github.com/anubhavsinha98) - **Anubhav Sinha** &lt;`<anubhavsinha98@gmail.com>`&gt;
-- [codekhal](https://github.com/codekhal) - **Khushal Vyas** &lt;`<vyas.khushal1999@gmail.com>`&gt;
-- [code-monk08](https://github.com/code-monk08) - **Mayank Singh** &lt;`<mayank.singh081997@gmail.com>`&gt;
-- [sidntrivedi012](https://github.com/sidntrivedi012) - **Siddhant N Trivedi** &lt;`<sidntrivedi012@gmail.com>`&gt;
-- [darksun27](https://github.com/darksun27) - **Siddharth Batra** &lt;`<sbsiddharth@gmail.com>`&gt;
-- [Yugandhartripathi](https://github.com/Yugandhartripathi) - **Yugandhar Tripathi** &lt;`<tripathi.yugandhar@gmail.com>`&gt;
+- [BK1603](https://github.com/nightwarriorftw) - **Shreyansh Chouhan** &lt;`<chouhan.shreyansh2702@gmail.com>`&gt;
+- [shermix](https://github.com/shermix) - **Ankesh Bharti** &lt;`<ankeshbharti8@gmail.com>`&gt;
+- [sickwiz](https://github.com/sickwiz) - **Aamir Ahmad** &lt;`<sickwiz@protonmail.com>`&gt;
+- [daemon1024](https://github.com/daemon1024) - **Barun Acharya** &lt;`<barun1024@gmail.com>`&gt;
+- [humancalico](https://github.com/humancalico) - **Akshat Agarwal** &lt;`<humancalico@disroot.org`&gt;
+- [akshgpt7](https://github.com/akshgpt7) - **Aksh Gupta** &lt;`<akshgpt7@gmail.com>`&gt;
 
 ## Meetups Record
 

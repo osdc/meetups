@@ -19,7 +19,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | ---------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
-| TBA        | TBA           	          | TBA                                           | TBA        | TBA                                                          |
+| 14-10-2020 | git and VCS           	          | git and VCS   | Core Team        | TBA                                                          |
 
 ### 2019-20 Spring
 

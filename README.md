@@ -18,9 +18,16 @@ List of all the meetups of the OSDC Community along with the links to their resp
 ### 2020-21 Fall
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
-| ---------- | ---------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
-| TBA        | TBA           	          | TBA                                           | TBA        | TBA                                                          |
-
+| ---------- | -------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
+| 2020-09-15 | Informal Meetup          | AMA and Quiz                                  | Core Team  | Free Talk                                                    |
+| 2020-09-26 | What and Why Open Source | Orientation Session                           | Core Team  | [Video Recording](https://youtu.be/FEIyxBKBa8I)              |
+| 2020-09-26 | Open Source 101          | How to get started with Open Source           | Core Team  | [Slides](https://docs.google.com/presentation/d/1XDV1aSB8bxlNcpx8EHVCIHG4kdC0PcGwv00kagTGWns/)  |
+| 2020-10-14 | Git Set Go               | Intro to VCs and Git                          | Core Team  | [Slides](https://gitsetgo.surge.sh/)                         |
+| 2020-10-17 | Informal Meetup          | General Discussion which turned into 12h fun HackNight | Core Team  | Free Talk                                            |
+| 2020-10-27 | Wanna Play Linux         | Intro to Linux and Command Line + Wargame     | Core Team  | [Slides](https://docs.google.com/presentation/d/1BL3PDTJrIftG2vRLZG66IAiqLl4qv6FdfwrO9VpOnpc)   |
+| 2020-11-11 | Bot's Going On           | Getting started with contributing to OSDC Bots| [@daemon1024](https://github.com/daemon1024),[@Arnav-Khare](https://github.com/Arnav-Khare)  | [General Slides](https://docs.google.com/presentation/d/1vRKqxencZpR0jUwFL5QQvdZ4j-iPebGsSR1labS6lXA/), [Discord Bot](https://docs.google.com/presentation/d/196Wm3W6pzRV8IfoNjJoS79iU1Do6-YlupHF5WnBB5ro)|
+| 2020-11-21 | GSoC                     | Intro & discussion about these student programs| Core Team | [Slides](https://docs.google.com/presentation/d/1MSfa45L2v6DvQjOS2GSE6DA6CW1-ZUAWzVing2qKxJE/)               |
+| 2020-11-28 | Assembler Hacknight      | Made an Assembler for LC-3 Instruction Set     | [@BK1603](https://github.com/bk1603) | [LC3ASM Repo](https://github.com/BK1603/LC3ASM/)             |
 ### 2019-20 Spring
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |

@@ -1,8 +1,8 @@
-Let's Discuss
-Economics of Open Source
-10th July, 2021
+# Let's Discuss
+## Economics of Open Source
+### 10th July, 2021
 
-Introductory Question:
+### Introductory Question:
     > About Yourself
     > Any other interesting thing you working on
 

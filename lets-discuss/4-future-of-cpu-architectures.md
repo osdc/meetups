@@ -11,12 +11,13 @@ Check out https://en.wikipedia.org/wiki/Von_Neumann_architecture
 
 // Learn what happens as soon as you power on your PC -> ROM (Bootloader)
 
-x86
-// Power on -> memory block(512 bytes)-> last 2 bytes are the starting point
+// x86: Power on -> memory block(512 bytes)-> last 2 bytes are the starting point
 
-CISC - x86
+- CISC - x86
 
-RISC - ARM, RISC-V
+- RISC - ARM, RISC-V
+
+
 
 RISC only interacts with registers 
 simple instruction set
@@ -55,4 +56,4 @@ x86 has been around for ages, so it's become like C (people prefer to go for it 
 
 
 
-In conclusion, RISC-V should have a strong future and might dominate, but x86 being around for a long time, will continue to live on.
+**In conclusion, RISC-V should have a strong future and might dominate, but x86 being around for a long time, will continue to live on.**

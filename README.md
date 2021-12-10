@@ -15,6 +15,12 @@ Organizational repository for the meetups initiave in OSDC
 
 List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
 
+### 2021-22 Fall
+
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | -------------------------- | --------------------------------------------- | ---------- | -------------------------------------------------------------|
+| 2021-12-10 | What's-A Linux             |Introduction to Linux & a basic demonstration of CLI  | Core Team  | [Slides](https://docs.google.com/presentation/d/1fP-kzcMfsUYddbg2z2dJAO9UZsOcXMy5oa_jM1czhQ4/edit#slide=id.g1065f0684ab_1_0)
+
 ### 2020-21 Fall
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |

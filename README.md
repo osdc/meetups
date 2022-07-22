@@ -6,6 +6,12 @@ Organizational repository for the meetups initiave in OSDC
 
 List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
 
+### 2022-23 Summer
+
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | -------------------------- | --------------------------------------------- | ---------- | -------------------------------------------------------------|
+| 2022-07-22 | Cryptography               | Introduction to Cryptography and ciphers      | [@aryanploxxx](https://github.com/aryanploxxx) | [Slides](https://drive.google.com/file/d/1YgyASNbEX5yHNDC7ROj6LgHF6SO-jqwc/view) |
+
 ### 2021-22 Fall
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |

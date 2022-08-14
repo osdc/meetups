@@ -10,6 +10,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | -------------------------- | --------------------------------------------- | ---------- | -------------------------------------------------------------|
+| 2022-07-29 | The Hitchhiker’s Guide to the Cooler Parts of the Internet | Demonstration on OSINT, Shodan, Internet archives and more | [@exitflynn](https://github.com/exitflynn) | [Slides](https://drive.google.com/file/d/1qjuD6sPeYsTk-1NivfrbFF01TxPtAZMC/view?usp=sharing) \| [Links](https://drive.google.com/file/d/1tENBDOViBlKlIXuvVj0d78uKeg8HtdrI/view?usp=sharing) |
 | 2022-07-22 | Cryptography               | Introduction to Cryptography and ciphers      | [@aryanploxxx](https://github.com/aryanploxxx) | [Slides](https://drive.google.com/file/d/1YgyASNbEX5yHNDC7ROj6LgHF6SO-jqwc/view) |
 
 ### 2021-22 Fall

@@ -6,14 +6,16 @@ Organizational repository for the meetups initiave in OSDC
 
 List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
 
-### 2022-23 Summer
+### 2022 Summer
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | -------------------------- | --------------------------------------------- | ---------- | -------------------------------------------------------------|
+| 2022-08-24 | Under the Hood of a Compilation : An Introduction to the LLVM Compiler which Powers Languages like C/C++, Rust, Fortran, Julia, Swift and more | Discussed how high level source code converts to machine code through a compiler + architecture of LLVM and their IR representation | [@phyBrackets](https://github.com/phyBrackets) | [Slides](https://drive.google.com/file/d/11ZZZOB68mIBPHYz7LUTEErRRe5sxZCc6/view?usp=sharing) \| [Links](https://drive.google.com/file/d/1XoMn0hjfnmnL90Qm3E7TfPzxs_hwNjxn/view?usp=sharing)|
 | 2022-08-19 | How to Make Processes Boring by Automating Them: An Introduction to DevOps | Discussed the need of DevOps, CI/CD Pipelines, different types of tools + Demo on github-actions | [@PrimalPimmy](https://github.com/PrimalPimmy) | [Slides](https://drive.google.com/file/d/1jHw6SzxEv4bO9wuBG1z0BcH2OyS0LIj2/view?usp=sharing) \| [Links](https://drive.google.com/file/d/1jD31zonigW5qy7jfcoOgkgMF-6hTsha8/view?usp=sharing)|
 | 2022-07-29 | The Hitchhiker’s Guide to the Cooler Parts of the Internet | Demonstration on OSINT, Shodan, Internet archives and more | [@exitflynn](https://github.com/exitflynn) | [Slides](https://drive.google.com/file/d/1qjuD6sPeYsTk-1NivfrbFF01TxPtAZMC/view?usp=sharing) \| [Links](https://drive.google.com/file/d/1tENBDOViBlKlIXuvVj0d78uKeg8HtdrI/view?usp=sharing) |
 | 2022-07-22 | Cryptography               | Introduction to Cryptography and ciphers      | [@aryanploxxx](https://github.com/aryanploxxx) | [Slides](https://drive.google.com/file/d/1YgyASNbEX5yHNDC7ROj6LgHF6SO-jqwc/view) |
 
+All meetup resources for Summer 2022 are documented in a Google Drive link [here](https://drive.google.com/drive/folders/1y1UeUI-ptGSd5_kXrwNhB9i9Rh1RBMyf?usp=sharing)
 ### 2021-22 Fall
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |

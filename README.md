@@ -1,6 +1,6 @@
 # Meetups
 
-Organizational repository for the meetups initiave in OSDC
+Organizational repository for the meetups initiative in OSDC
 
 ## Meetups Record
 

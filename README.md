@@ -13,7 +13,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2023-11-21 | Introduction to GSoC | Intro to GSOC and similar open-source programs  and how to apply to them. | [SohamKukreti](https://github.com/SohamKukreti), [Sarthak Negi](https://github.com/sarthaksarthak9) | [Slides](https://drive.google.com/file/d/1YcR1etcct0NMSu622HcxntHfDcM6YGV2/view?usp=sharing)
 | 2023-11-08 | CTF 101: Introduction to CTF and Cybersecurity Challenges | Introduction to the world of digital security and learning how to develop skills through CTFs. | [@satyamrathirar](https://github.com/satyamrathirar), [@ATamblingPoder](https://github.com/ATamblingPoder) | [Slides](https://drive.google.com/file/d/1CYA50RkgOnvY6DLfooa_H5PubBdUF3j7/view?usp=sharing)
 | 2023-09-05 | Shell and Git/Github Workshop | Discussed the importance and use cases of various linux command line tools and demonstrated the git workflow via a workshop. | [Rohit](https://github.com/deadaf), [Mohak](https://github.com/todo-aoi)| Hands-on Workshop
-| 2023-08-29 | Linux Installfest | Introduced newcomers to Linux, demonstrated how it is super cool in compariosn to windows and helped newbies dual boot their systems with Ubuntu. | [@ciaokitty](https://github.com/ciaokitty), [@yryuvraj](https://github.com/yryuvraj) | [Slides](https://drive.google.com/file/d/1yQXDuU84TOSa0GQ4D8qqpZ6MgdU18iMV/view?usp=sharing)
+| 2023-08-29 | Linux Installfest | Introduced newcomers to Linux, demonstrated how it is super cool in comparison to windows and helped newbies dual boot their systems with Ubuntu. | [@ciaokitty](https://github.com/ciaokitty), [@yryuvraj](https://github.com/yryuvraj) | [Slides](https://drive.google.com/file/d/1yQXDuU84TOSa0GQ4D8qqpZ6MgdU18iMV/view?usp=sharing)
 
 
 ### 2022 Summer

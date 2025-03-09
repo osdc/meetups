@@ -6,6 +6,17 @@ Organizational repository for the meetups initiative in OSDC
 
 List of all the meetups of the OSDC Community along with the links to their respective speakers and their notes/slides.
 
+### 2024-25
+
+| Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
+| ---------- | -------------------------- | --------------------------------------------- | ---------- | -------------------------------------------------------------|
+| 2025-02-25 | A Guide to GSOC | Insights into GSoC and similar open-source programs, including guidance on the application process and participation. | [SohamKukreti](https://github.com/SohamKukreti), Risha | [Slides](https://drive.google.com/file/d/1knA64dkOVpIACm1QV-UARcO_dGLNqjFn/view?usp=sharing)
+| 2024-11-19 | Intro to PyGame | Introduction to PyGame, helped people build their first game. | [@codelif](https://github.com/codelif), [@Rishab87](https://github.com/Rishab87) | [Slides](https://drive.google.com/file/d/1koT5nrC794iIeAYLHjg_bpK0e7EjODl1/view?usp=sharing)
+| 2024-11-12 | FOSS In Education | Talk by Sai Rahul Poruri, CEO of FOSS United, delved into FOSS in engineering education. | [@rahulporuri](https://github.com/rahulporuri),| [Slides](https://drive.google.com/file/d/1kkof_GZ22EfN9lvUMbf4RtOLtZ_xCei3/view?usp=sharing)
+| 2024-10-24 | Blockchain & Web3 | Introduction to blockchain, cryptocurrency, and Web3, helping newcomers understand the concepts and set up their first wallet. | [@mehul1409](https://github.com/mehul1409), [@yeah-ssh](https://github.com/yeah-ssh) | [Slides](https://drive.google.com/file/d/1n3FX4fddC9GxwREGDbSQDt-xlOd3z7e4/view?usp=sharing)
+| 2024-10-01 | The Real Linux Installfest | Introduction to Linux, helped newbies dual boot their systems and install virtual machines. | [@satyamrathirar](https://github.com/satyamrathirar), [@ATamblingPoder](https://github.com/ATamblingPoder) | [Slides](https://drive.google.com/file/d/1l0S2YWPfhfsvtWopJ3oz8h6wTXboTsVt/view?usp=sharing) |
+| 2024-09-24 | Who's That Pokemon ? | Introduced newcomers to Git and GitHub, guiding them through making their first pull request on a Pokémon-themed project. | [@ItsArnavSh](https://github.com/ItsArnavSh), [Bhavya](https://github.com/bhavyakhatri2703), [@akshithere](https://github.com/akshithere) | [Slides](https://drive.google.com/file/d/1ksQBkPWbLIYc0LpJmgzgfg2EgwKe5pE1/view?usp=sharing) [PokeArcadia Repo](https://github.com/osdc/PokeArcadia) 
+
 ### 2023 Summer
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
